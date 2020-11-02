@@ -1,0 +1,4 @@
+//install on windows:
+>pip install platformio
+//init project with board type
+>platformio init --board=nodemcuv2
